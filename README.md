@@ -25,9 +25,9 @@ Working on AI, cybersecurity, software development and vulnerability research, a
 [Web](https://eminuzun.com) ·
 [LinkedIn](https://linkedin.com/in/emuzinun/) ·
 [X](https://x.com/emuzinun) ·
+[Reddit](https://reddit.com/user/emuzinun) ·
 [Hugging Face](https://huggingface.co/emuzinun) ·
 [Kaggle](https://kaggle.com/emuzinun) ·
 [Medium](https://medium.com/@emuzinun) ·
-[Dev.to](https://dev.to/emuzinun)
-
-<!-- Öne çıkan projeler: public repolar belirlenince buraya eklenecek -->
+[Dev.to](https://dev.to/emuzinun) ·
+[Ekşi Sözlük](https://eksisozluk.com/biri/boyle-buyurdu-hazretleri)
